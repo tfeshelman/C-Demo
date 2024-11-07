@@ -8,7 +8,7 @@
 <div>
     See it in action on<a href="https://onecompiler.com/cpp/42xbz8nza"> OneCompiler</a>.
     <br>
-    See the script on GitHub<a href="https://github.com/tfeshelman/C-Demo/blob/main/fizzbuzz.cpp"> here</a>.
+    See the script on GitHub<a href="https://github.com/tfeshelman/C-Demo/blob/main/fizzBuzz.cpp"> here</a>.
 </div>
 <br>
 
